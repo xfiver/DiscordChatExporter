@@ -25,9 +25,7 @@ It works with direct messages, group messages, and server channels, and supports
 
 > ❔ If you have questions or issues, **please refer to the [docs](.docs)**.
 
-> 💬 If you want to chat, **join my [Discord server](https://discord.gg/2SUWKFnHSm)**.
-
-## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)</sup>
+## Terms of use
 
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 
